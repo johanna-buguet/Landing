@@ -1,0 +1,74 @@
+body{
+  background: #3A445D ;
+  color: white;
+  font-size: 15px;
+  font-family: Helvetica;
+ 
+}
+h1{
+  font-family: 'Nova Flat', cursive;
+  color: #D5CFE1;
+  font-weight: lighter;
+  font-size: 30px;
+}
+h2 {
+  font-family: avenir;
+  color: #B7B6C1; 
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+a {
+  color: #94958B;
+}
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+} 
+#banner{
+  text-align: center;
+  background-image:url(images/cover.jpg);
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey; 
+  text-align: center;
+}
+
+#footer a {
+  color: white;
+  font-size: 30px;
+}
+
+#footer a:hover {
+  color: white;
+}
+
+.card{
+  padding: 50px;
+  background-color: white ;
+  font-weight: lighter;
+  text-align: center;
+} 
+ .card p 
+{
+  color: black ;
+}
